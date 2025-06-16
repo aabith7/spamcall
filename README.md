@@ -102,7 +102,7 @@ Aabith Navab
 📍 Bengaluru
 🎓 Data Science Intern @ GradTwin
 🔗 [LinkedIn](https://www.linkedin.com/in/aabith-n-9b2434269/)
-💻 GitHub
+💻 [GitHub](https://github.com/aabith7)
 
 
 
